@@ -1,0 +1,18 @@
+.inputField{
+    color: #313e7e;
+    background: #fff;
+    font-size: 14px;
+    min-height: calc(1.5em + 1.8rem + 2px); 
+    border-radius: 5px;
+    font-family:'Open Sans';
+}
+.label{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.demoSubmitButton{
+    min-width: 5em;
+}
+.demoSubmitButton:hover{
+    transform: translate3d(0, -3px, 0);
+}
